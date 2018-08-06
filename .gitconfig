@@ -1,0 +1,9 @@
+[user]
+	username = jheusala
+	name = Jaakko-Heikki Heusala
+	location = Oulu, Finland
+	website = https://github.com/sendanor
+[commit]
+	gpgsign = true
+[aliases]
+	github = jheusala
